@@ -1,6 +1,6 @@
 # CS202-Compiler-Design
 
-GOPAGONI SREYA
+JYOTI DHIMAN
 
 i) to run and compile use commands
  bison -d cucu.l
