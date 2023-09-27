@@ -1,7 +1,5 @@
 # CS202-Compiler-Design
 
-JYOTI DHIMAN
-
 i) to run and compile use commands
  bison -d cucu.l
  flex cucu.l
